@@ -5,3 +5,5 @@ Through this project, a CNN model is built and trained on the dataset,
 with images resized to 300x300 and incorporating convolution and max pooling layers to enhance feature extraction.
 While the model demonstrates strong performance on individual horse or human images, 
 it exhibits a slight decrease in accuracy when presented with images combining both humans and horses.
+IMPORTANT NOTE: This notebook is designed to run as a Colab.
+Running it on your local machine might result in some of the code blocks throwing errors.
